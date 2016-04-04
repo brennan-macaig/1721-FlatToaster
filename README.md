@@ -15,7 +15,7 @@ All our code is also protected by the M.I.T. License. All code, unless directly 
 ```
 The MIT License (MIT)
 
-Copyright (c) 2015 Concord Robotics, Team 1721.
+Copyright (c) 2016 Concord Robotics, Team 1721.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
