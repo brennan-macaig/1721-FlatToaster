@@ -1,4 +1,4 @@
-# Flat Toaster (1721 - 2016) [![Build Status](https://travis-ci.com/brennan-macaig/1721-FlatToaster.svg?token=HBRhbofU9PqAxkGSSzWw&branch=master)](https://travis-ci.com/brennan-macaig/1721-FlatToaster)
+# Flat Toaster (1721 - 2016) [![Build Status](https://travis-ci.org/brennan-macaig/1721-FlatToaster.svg?branch=master)
 
 ### What is this? ###
 
